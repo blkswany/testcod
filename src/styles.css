@@ -1,0 +1,7 @@
+.current-month {
+  background-color: #ffdd57 !important; /* 이번 달: 노란색 */
+}
+
+.next-month {
+  background-color: #87ceeb !important; /* 다음 달: 하늘색 */
+}
